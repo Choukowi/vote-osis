@@ -1,0 +1,3 @@
+# PEMILU OSIS — e-Voting Sekolah berjalan dengan standard library Python,
+# KECUALI satu dependensi berikut untuk ekspor Excel (.xlsx) hasil akhir:
+openpyxl==3.1.2
